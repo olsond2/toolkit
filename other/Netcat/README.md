@@ -15,6 +15,7 @@ Super nifty little tool. It is not complicated and does what it is supposed to d
 2. Set up the Listener on Windows
 
 ```nc -L -p 5555 > filename.txt```
+
 3. Run a file and pipe it to netcat on the other machine (Linux in this case)
 
 ```cat /etc/passwd | nc <IP address> 5555```
