@@ -22,20 +22,22 @@ Each tool has its own README.md, which has the required information.
 
 ### Digital Forensics
 - [OSXPmem](https://github.com/olsond2/toolkit/tree/master/DF/OSXPmem)
-- Wireshark
-- FTK Imager
-- LiME
-- CapLoader
-- Volatility
-- WinPrefetchView
-- FTK
-- Autopsy
+- [Wireshark](https://github.com/olsond2/toolkit/tree/master/DF/wireshark)
+- [FTK Imager](https://github.com/olsond2/toolkit/tree/master/DF/FTK-imager)
+- [LiME](https://github.com/olsond2/toolkit/tree/master/DF/LiME)
+- [CapLoader](https://github.com/olsond2/toolkit/tree/master/DF/Caploader)
+- [Volatility](https://github.com/olsond2/toolkit/tree/master/DF/Volatility)
+- [WinPrefetchView](https://github.com/olsond2/toolkit/tree/master/DF/WinPrefetchView)
+- [FTK](https://github.com/olsond2/toolkit/tree/master/DF/FTK)
+- [Autopsy](https://github.com/olsond2/toolkit/tree/master/DF/Autopsy)
 
 ### Malware Analysis/Reverse Engineering
-- Cutter
-- ODA Online Disassembler
+- [Cutter](https://github.com/olsond2/toolkit/tree/master/RE/Cutter)
+- [ODA Online Disassembler](https://github.com/olsond2/toolkit/tree/master/RE/ODA)
+- [Yara](https://github.com/olsond2/toolkit/tree/master/RE/Yara)
+- [Suricata](https://github.com/olsond2/toolkit/tree/master/RE/Suricata)
 
 ### Other
-- 7zip
-- Netcat
-- Cyber Chef
+- [7zip](https://github.com/olsond2/toolkit/tree/master/other/7zip)
+- [Netcat](https://github.com/olsond2/toolkit/tree/master/other/Netcat)
+- [Cyber Chef](https://github.com/olsond2/toolkit/tree/master/other/cyberchef)
