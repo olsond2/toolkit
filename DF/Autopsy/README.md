@@ -15,7 +15,7 @@ Open up Autopsy, create a new case, and select the image file to analyze.
 <br />
 <br />
 
-#Resources
+## Resources
 https://www.sleuthkit.org/autopsy/
 
 *Note: No source is provided in this repo. See above link for download and installation
