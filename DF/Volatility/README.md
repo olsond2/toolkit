@@ -11,9 +11,13 @@ use everything that Volatility had and I was amazed at how awesome it was. Defin
 
 ## Usage
 Volatility is already installed on Kali Linux by default. This can be used. Begin with this command
+
 ```volatility -f file.vmem imageinfo```
+
 After running this command, Use suggested profiles to execute more commands. For example:
+
 ```volatility -f file.vmem --profile WinXPSP3x86 psscan```
+
 There are plenty of plugins to use besides psscan
 <br />
 
