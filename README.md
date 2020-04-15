@@ -1,5 +1,5 @@
 # Toolkit
-Useful cybersecurity and Digital Forensics
+Useful Cybersecurity and Digital Forensics Tools
 
 ## Description
 This project is a collection of tools I found useful during the Digital Forensics class at BYU. The different tools are divided up according to their use (DF=Digital Forensics, RE=Reverse Engineering/Malware Analysis, Other=other). These are not meant to be main repositories of the tools. Instead, they contain a brief description of them and how to get/use them.
