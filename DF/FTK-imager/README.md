@@ -2,11 +2,13 @@
 
 ## Description
 FTK Imager is a free tool to take an image of a machine. FTK Imager takes everything on a drive and turns it into a digital image.
-
+<br />
+<br />
 
 ## Personal Review
 FTK Imager performs well and is free to use. FTK, however, is not free.
-
+<br />
+<br />
 
 ## Usage
 ### Live Imaging
@@ -16,7 +18,8 @@ FTK Imager performs well and is free to use. FTK, however, is not free.
 ### Dead Imaging
 - Connect Hard Drive to a write blocker and connect to a machine
 - Run FTK Imager from machine and choose an appropriate destination folder
-
+<br />
+<br />
 
 ## Resources
 https://marketing.accessdata.com/ftkimager4.2.0
