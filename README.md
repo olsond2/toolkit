@@ -8,7 +8,6 @@ Useful cybersecurity and Digital Forensics
 - Wireshark
 - FTK Imager
 - LiME
-- dd
 - CapLoader
 - Volatility
 - WinPrefetchView
