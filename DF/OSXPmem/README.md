@@ -2,12 +2,18 @@
 
 ## Description
 OSXPmem is a tool used to get the main memory of a Mac-based machine.
+<br />
+<br />
 
 ## Personal Review
-Works well, but little documentation exists
+Works well, but little documentation exists. Effective.
+<br />
+<br />
 
 ## Usage
 osxpmem.app/osxpmem -o [storage device]
+<br />
+<br />
 
 ## Resources
 https://github.com/google/rekall/releases
